@@ -4,21 +4,21 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I'm currently deep-diving into **Artificial Intelligence**, **Deep Learning**, and **Computer Vision** (Building custom CNNs from scratch!).
-- 🔭 Passionate about turning mathematical concepts into working code using **Python** and **PyTorch**.
-- ⚡ Fun fact: I love exploring how neural networks learn patterns through non-linear activations!
+### About Me
+- I'm currently deep-diving into **Artificial Intelligence**, and **Deep Learning** (Building custom model from scratch!).
+- Passionate about turning mathematical concepts into working code using **Python** and **PyTorch**.
+- Fun fact: I love exploring how neural networks learn patterns through non-linear activations!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,vscode,linux,markdown&perline=7" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awijaksara07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awijaksara07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
